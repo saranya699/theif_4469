@@ -1,0 +1,7 @@
+{
+  "name": "theif",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
